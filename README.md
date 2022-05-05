@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @cpoStadioPlus - CPO of www.stadioplus.com - Sports NFT Marketplace
 - 👀 I’m interested in NFTs, Crypto & Health
 - 🌱 I’m currently learning about dNFTs (Dynamic NTFs), link wearables and metaverse applications.
-- 💞️ I’m looking to collaborate on 
 - 📫 How to reach me on Twitter (https://twitter.com/carmonpa1) DMs always open or carles arroba stadioplus dot com
 
 <!---
